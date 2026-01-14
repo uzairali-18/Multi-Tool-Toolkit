@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /?q=*
+Disallow: /*.json$
+Disallow: /*.js$
+Disallow: /*.css$
+
+Sitemap: https://uzairali-18.github.io/Multi-Tool-Toolkit/sitemap.xml
+
+# Crawl-delay: 10 (Optional: if you experience heavy traffic)
